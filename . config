@@ -1,0 +1,13 @@
+//profile-title: base64:8J+UpSBXQVJQIPCflKU=
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://t.me/hiddify
+//profile-web-page-url: https://hiddify.com
+
+warp://p1@188.114.97.170:3854?key=gK5eBte6GL06dUDxmFSIPY4AnegRndLyWkjYBV4PJ1k=&pk=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1400&keepalive=25&allowed_ips=0.0.0.0/0,::/0&dns=1.1.1.1,8.8.8.8#Tag:m4 § 0&&fake_packets=0&fake_packets_size=0&fake_packets_delay=0&fake_packets_mode=none
+
+warp://p2@188.114.97.170:942?key=6KHShhNVvxh0zTy17gPI+KrZa2gqgYPIrqsI4MPUFmc=&pk=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1400&keepalive=25&detour=m4 § 0#Tag:warp in warp § 1
+
+warp://p3@00rhycedklyim5u6p4eq:854?key=gK5eBte6GL06dUDxmFSIPY4AnegRndLyWkjYBV4PJ1k=&pk=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1400&keepalive=25&dns=1.1.1.1,8.8.8.8#Tag:LocalIP § 2&&fake_packets=0&fake_packets_size=0&fake_packets_delay=0&fake_packets_mode=none
+
+warp://p4@162.159.192.1:1180?key=6KHShhNVvxh0zTy17gPI+KrZa2gqgYPIrqsI4MPUFmc=&pk=bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=&mtu=1400&keepalive=25&detour=LocalIP § 2#Tag:WarpInWarp✅ § 3
